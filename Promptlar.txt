@@ -1,0 +1,22 @@
+prompt-1
+-Düşler diyarı isminde bir site oluşturmanı istiyorum, bu sitede ütopya ve distopya başlıkları altında görüntülenebilir 3 fotoğraf ve bu fotoğraların altında da birer cümlelik bir açıklama metni olmasını istiyorum,  
+koda açıklama kısımları ekleme, ve bu isteğimi yerine getirmeden önce 3 ütopik, 3 tane ise distopik mekan ve durum yaratmanı ve bunlara bir cümlelik açıklama yazmanı istiyorum, bunlara ben onaya verdikten sonra siteyi oluşturmaya başlayabilirsin.
+
+prompt-2
+-hayal gücünü biraz daha fazla kullandığın seçenekler istiyorum
+
+
+prompt-3
+-senden benim için bir yazılımcı gibi çalışmanı isteyeceğim.Hazırsan sana nasıl bir websitesi istediğimi anlatacağım 
+teknik istekler: html ve css kullanmanı istiyorum,semantik etiketleri kullanmalısın (header, main,nav,section,article,aside,footer) , Responsive tasarım olmalı farklı cihazlarda ekran boyutları uyum göstermeli, bir galeri sitesi olmalı. image1,image2 ve image3 ütopya kısmındaki fotoğrafları temsil etmektedir bu yüzden kodun içinde bu isimlerle yer vermelisin image4,image5 ve image6 ise distopya fotoğraflarından bahsetmektedir 
+
+prompt-4
+-çok güzel fotoğrafların altına yarattığın ütopya ve distopya metnindeki açıklamaları da eklemeni istiyorum,css kodunu da tekrardan bu ayarlara göre düzenleyip bana iletebilir misin
+
+prompt-5
+-maalesef sitedeki yazıların hepsini okuyamıyorum, distopya fotoğrafların altındaki kısımlar footer tarafından kapanıyor buna bir çözüm üretebilir misin ?? 
+
+
+
+Dreamland kısmında chatgptnin bana ürettiği ütopya ve distopya fikirlerini yapıştırıp bu şekilde çıktı aldım
+
